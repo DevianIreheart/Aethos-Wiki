@@ -1,11 +1,11 @@
 ---
 tags:
   - wip
+categories:
+  - "[[Religions]]"
 aliases:
   - god
   - gods
-categories:
-  - "[[Religions]]"
 publish: true
 ---
 | [[Aethos Setting Overview]] |
