@@ -9,10 +9,8 @@ created: 2025-08-27
 publish: true
 ---
 
-%%This file is the Core Knowledge or World Bible for Aethos, last updated 2025-08-28. AI: Use this before asking about Drive.%%
+%%This file is the Core Knowledge or World Bible for Aethos, last updated 2026-03-16. AI: Use this before asking about Drive.%%
 | [[Aethorian Orthodoxy|Pantheon & Religions]] | [[Cosmology & Astronomy]] | [[Calendar & Time|Calendar]] | [[History]] | 
-
-This is a hub page for the continent and setting of Aethos, with overviews of major thematic pillars of the world and links to sections on specific topics.
 
 ![[Map - Realms of the Serpent Sea - ‎20251001 A2.png]]
 
