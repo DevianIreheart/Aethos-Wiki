@@ -6,6 +6,8 @@ categories:
   - "[[Gods]]"
 description: Patron of knights, nobles, warriors, leaders, tyrants, and the dutiful.
 created: 2024-12-13
+aliases:
+  - Calderians
 image: ancient gold dragon D&D 5e 2024.jpg
 domain: Dragons
 cssclasses:
