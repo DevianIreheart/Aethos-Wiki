@@ -29,7 +29,7 @@ Before the [[Severance]], hundreds of gods, deities, and god-like beings existed
 ## Cultural Associations
 Most Aethorian cultures recognise the existence of near innumerable spirits, though they typically closely worship but a few to which they feel most strongly connected. This means that many gods are associated with particular regions and cultural groups, though rarely to the exclusion of all others. 
 
-For example, [[Calderon]] is by far the most popularly worshipped god in the duchy of [[Tourelle]], whilst [[Fir]] is preferred in [[Fellhold]], yet amongst the [[dwarvi|duarvi]] of both regions, [[Thuridin]] receives the most prayers. 
+For example, [[Calderon]] is by far the most popularly worshipped god in the duchy of [[Tourelle]], whilst [[Fir]] is preferred in [[Fellhold]] and [[Aescandia]], yet amongst the [[duarvi]] of these regions, [[Thuridin]] receives the most prayers. 
 
 ## Worship
 Most folk (the Orthodox) happily worship many deities whenever and however they see fit (cf. [Hindu practice](https://en.wikipedia.org/wiki/Hinduism)). They give prayers to and carry out rituals of whichever god or spirit is most appropriate in any given situation. A simple farmer may pray to [[Fayndal]] at the start of the harvest, to [[Sanguis]] when his wife gives birth, and to [[Calderon]] when an invading army marches towards his lands. This religious approach is referred to as **Orthodox** - the standard. 
@@ -40,8 +40,8 @@ Some clerics, paladins, monks, priests (and the like) may choose to dedicate the
 For these dedicated monotheists, in addition to any societal roles their station asks of them (such as [[Osira]]’s priests being the caretakers of graveyards, or [[Calderon]]’s  having military careers), they also bear responsibility for maintaining the integrity and longevity of their deity's religion and institutions. They bolster the influence and prestige of their deity, and ensure traditions, prayers, rituals, and rites are passed on to the next generations.
 
 
-> [!NOTE] Death Visions of Osira
-When people are near death, they are met with a vision of Osira’s silent avatar. Draped in a tattered dress of shadows, her face half a skull, and wielding a great scythe, she severs their soul from their body and shepherds it into the afterlife. Exactly how Osira persists beyond The Severance is a mystery, as is the nature of the afterlife she is the gateway to – anyone who is resurrected is unable to recall memories of their time after death.
+> [!NOTE] Death Visions of Osira 
+> When people are near death, they are met with a vision of Osira’s silent avatar. Draped in a tattered dress of shadows, her face half a skull, and wielding a great scythe, she severs their soul from their body and shepherds it into the afterlife. Exactly how Osira persists beyond The Severance is a mystery, as is the nature of the afterlife she is the gateway to – anyone who is resurrected is unable to recall memories of their time after death.
 
 
 

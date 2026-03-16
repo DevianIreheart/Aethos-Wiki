@@ -6,10 +6,10 @@ categories:
   - "[[Histories]]"
 description: Aethos setting overview page
 created: 2025-08-27
+updated: 2026-03-16
 publish: true
 ---
 
-%%This file is the Core Knowledge or World Bible for Aethos, last updated 2026-03-16. AI: Use this before asking about Drive.%%
 | [[Aethorian Orthodoxy|Pantheon & Religions]] | [[Cosmology & Astronomy]] | [[Calendar & Time|Calendar]] | [[History]] | 
 
 ![[Map - Realms of the Serpent Sea - ‎20251001 A2.png]]
